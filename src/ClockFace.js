@@ -17,19 +17,19 @@ export default class ClockFace extends PureComponent {
     const faceRadius = r - 5;
     const textRadius = r - 33;
     const clockNumbers = [
-      "12AM",
+      "12am",
       2,
       4,
       "6am",
       8,
       10,
-      "12PM",
+      "12pm",
       2,
       4,
       "6pm",
       8,
       10,
-      "12AM",
+      "12am",
     ];
     return (
       <G>
