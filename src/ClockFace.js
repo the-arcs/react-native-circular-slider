@@ -26,7 +26,7 @@ export default class ClockFace extends PureComponent {
       "12PM",
       2,
       4,
-      "6am",
+      "6pm",
       8,
       10,
       "12AM",
