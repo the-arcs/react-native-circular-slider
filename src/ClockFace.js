@@ -84,7 +84,7 @@ export default class ClockFace extends PureComponent {
 
 const styles = StyleSheet.create({
   icon: {
-    marginTop: 78,
+    marginTop: 72,
     justifyContent: "center",
     alignItems: "center",
   },
